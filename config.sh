@@ -2,11 +2,11 @@
 # RENAME THIS FILE TO config.sh
 
 ### Bank management
-TARGET="10" # Target in %
-STOPLOSS="100" # Stoploss in %
+TARGET="" # Target in %
+STOPLOSS="" # Stoploss in %
 
 ### Sites config
 YOLODICE_PRIVKEY=""
-YOLODICE_CURRENCY="DOGE"
+YOLODICE_CURRENCY=""
 start_yolodice
 
