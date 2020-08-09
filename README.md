@@ -1,10 +1,8 @@
-##Deploy
+#Deploy
 
 [(https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
 
 To install better execute:
-
-# Other method
 
 Install nodejs
 git clone https://github.com/MrCyjaneK/better.git
