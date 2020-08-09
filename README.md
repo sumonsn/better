@@ -1,10 +1,12 @@
 ##Deploy
 
-https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
+[(https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
 
 To install better execute:
 
-# 0. Install nodejs
+# Other method
+
+Install nodejs
 git clone https://github.com/MrCyjaneK/better.git
 cd better
 bash install.sh
